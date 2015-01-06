@@ -1,0 +1,34 @@
+c:\users\jameson\documents\visual studio 2012\Projects\RedWipe\RedWipe\bin\Debug\RedWipe.exe.config
+c:\users\jameson\documents\visual studio 2012\Projects\RedWipe\RedWipe\bin\Debug\RedWipe.exe
+c:\users\jameson\documents\visual studio 2012\Projects\RedWipe\RedWipe\bin\Debug\RedWipe.pdb
+c:\users\jameson\documents\visual studio 2012\Projects\RedWipe\RedWipe\bin\Debug\RedWipe.xml
+c:\users\jameson\documents\visual studio 2012\Projects\RedWipe\RedWipe\obj\Debug\RedWipe.Form1.resources
+c:\users\jameson\documents\visual studio 2012\Projects\RedWipe\RedWipe\obj\Debug\RedWipe.Resources.resources
+c:\users\jameson\documents\visual studio 2012\Projects\RedWipe\RedWipe\obj\Debug\RedWipe.vbproj.GenerateResource.Cache
+c:\users\jameson\documents\visual studio 2012\Projects\RedWipe\RedWipe\obj\Debug\RedWipe.exe
+c:\users\jameson\documents\visual studio 2012\Projects\RedWipe\RedWipe\obj\Debug\RedWipe.xml
+c:\users\jameson\documents\visual studio 2012\Projects\RedWipe\RedWipe\obj\Debug\RedWipe.pdb
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\bin\Debug\RedWipe.exe.config
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.exe
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.xml
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.pdb
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.vbproj.GenerateResource.Cache
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.Form1.resources
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\bin\Debug\RedWipe.exe
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\bin\Debug\RedWipe.pdb
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\bin\Debug\RedWipe.xml
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\bin\Debug\RedditApi.dll
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\bin\Debug\RedditSharp.dll
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\bin\Debug\RedditSharp.pdb
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.Resources.resources
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.vbprojResolveAssemblyReference.cache
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\bin\Debug\RedWipe.exe.manifest
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\bin\Debug\RedWipe.application
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.exe.manifest
+C:\Users\Jameson\Desktop\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.application
+C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\bin\Debug\RedWipe.exe.config
+C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.exe
+C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.xml
+C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Debug\RedWipe.pdb
