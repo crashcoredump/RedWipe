@@ -36,7 +36,6 @@ C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\bin\Release\RedditS
 C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\bin\Release\Newtonsoft.Json.dll
 C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\bin\Release\HtmlAgilityPack.dll
 C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\bin\Release\RedditSharp.pdb
-C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Release\RedWipe.vbprojResolveAssemblyReference.cache
 C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Release\RedWipe.Form1.resources
 C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Release\RedWipe.Form2.resources
 C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Release\RedWipe.Form3.resources

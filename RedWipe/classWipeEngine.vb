@@ -50,7 +50,7 @@ Public Class classWipeEngine
             comment.Remove()
             mainForm.SetText(mainForm.txtconsole, mainForm.txtconsole.Text & "Comment: " & y & "     Deleted." & vbCrLf)
             'Show time elapsed
-            mainForm.SetText(mainForm.txtconsole, mainForm.txtconsole.Text & "Time of Completion: " & calculateTimeRemaining(startTime, y, (TotalComments + TotalPosts)) & vbCrLf & vbCrLf)
+            mainForm.SetText(mainForm.txtconsole, mainForm.txtconsole.Text & "Time of Completion: " & calculateTimeRemaining(startTime, (TotalComments - y), TotalPosts + TotalComments) & vbCrLf & vbCrLf)
             'Refresf the console so we can see the updates.
             If Cancel = True Then handleCanceled()
         Next
@@ -84,7 +84,7 @@ Public Class classWipeEngine
             post.Remove()
             mainForm.SetText(mainForm.txtconsole, mainForm.txtconsole.Text & "Post: " & x & "     Deleted." & vbCrLf)
             'Show time elapsed
-            mainForm.SetText(mainForm.txtconsole, mainForm.txtconsole.Text & "Time of Completion: " & calculateTimeRemaining(startTime, (x + TotalComments), TotalPosts) & vbCrLf & vbCrLf)
+            mainForm.SetText(mainForm.txtconsole, mainForm.txtconsole.Text & "Time of Completion: " & calculateTimeRemaining(startTime, (TotalPosts - x), TotalComments + TotalPosts) & vbCrLf & vbCrLf)
             'Refresf the console so we can see the updates.
             If Cancel = True Then handleCanceled()
         Next
