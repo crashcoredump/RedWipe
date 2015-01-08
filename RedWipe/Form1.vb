@@ -95,7 +95,7 @@
         'This prompts the user to confirm that they understand what will happen.
         'If the user selects yes the WipeIT function will run which will start deleting allt the posts and comments.
         Dim result As Boolean
-        If MsgBox("Terms and conditions:" & vbCrLf & vbCrLf & "This process will 'Edit' all of your posts and replace them with random data, then delete them.  This process is irreversable!" & vbCrLf & vbCrLf & "Do you accept?", MsgBoxStyle.YesNoCancel, "WARNING!!!") = MsgBoxResult.Yes Then
+        If MsgBox("Terms and conditions:" & vbCrLf & vbCrLf & "This process will 'Edit' the last 1000 of your posts and all of your comments and replace them with random data, then delete them.  This process is irreversable!" & vbCrLf & vbCrLf & "Do you accept?", MsgBoxStyle.YesNoCancel, "WARNING!!!") = MsgBoxResult.Yes Then
             Cancel = False
             'Create new WipeIT class
             Dim WI As classWipeEngine

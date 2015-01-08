@@ -90,7 +90,7 @@ Public Class classWipeEngine
         Next
 
 
-        mainForm.SetText(mainForm.txtconsole, mainForm.txtconsole.Text & "Everything should be gone You will need to manually delete your account." & vbCrLf)
+        mainForm.SetText(mainForm.txtconsole, mainForm.txtconsole.Text & "The last 1000 posts and all comments should be gone You will need to manually delete your account." & vbCrLf)
         Return True
 10:
     End Function
