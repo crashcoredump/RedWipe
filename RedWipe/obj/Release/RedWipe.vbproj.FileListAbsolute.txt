@@ -43,3 +43,4 @@ C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Release\RedWipe
 C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Release\RedWipe.vbproj.GenerateResource.Cache
 C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Release\RedWipe.exe.manifest
 C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Release\RedWipe.application
+C:\Users\Jameson\Desktop\Personal\Programing\RedWipe\RedWipe\obj\Release\RedWipe.vbprojResolveAssemblyReference.cache

@@ -84,7 +84,7 @@
         'Declares RED as a new instance of RedditSharp.Reddit
         Cancel = False
         RED = New RedditSharp.Reddit
-        RED.RateLimit = RedditSharp.WebAgent.RateLimitMode.Pace
+        RED.RateLimit = RedditSharp.WebAgent.RateLimitMode.Burst
     End Sub
 
     Private Sub btnWipe_Click(sender As Object, e As EventArgs) Handles btnWipe.Click
