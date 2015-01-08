@@ -1,4 +1,4 @@
-RedWipe - http://www.redwipe.com
+Red Wipe - http://www.redwipe.com
 =======
 
 Erase Your Reddit History
