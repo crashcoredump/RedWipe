@@ -9,4 +9,4 @@ on their servers. This applies to when you delete your account as well. Red Wipe
 comments and posts to random data before deletion. This may prevent the original messages from being
 recovered. 
 
-**This is due to a limitation in the Reddit API.  The program states that it can delete ALL the posts and comments, this will be corrected shortly to reflect the 1000 limit on posts.
+**This is due to a limitation in the Reddit API.
